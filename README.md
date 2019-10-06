@@ -3,7 +3,7 @@
 The attached code provides a partial implementation of the method for integrating the thin films equation on curved sufraces as described in
 https://dl.acm.org/citation.cfm?id=2786793
 
-![Alt text](images/fvf_code_img_hr.png?raw=true "Teaser")
+![Alt text](images/ftf_code_img_hr.png?raw=true "Teaser")
 
 # Contents
 
