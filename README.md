@@ -9,7 +9,7 @@ https://dl.acm.org/citation.cfm?id=2786793
 
 folders structure:
 
-code/  tbsp; tbsp; tbsp; tbsp;               contains the code for our method\
+code/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               contains the code for our method\
 code/experiments/ 		the saved simulations are dropped here\
 data/ 					      geometry files\
 external/ 				    code of other methods that we used\
